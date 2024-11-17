@@ -1,3 +1,5 @@
+chandan
+
 # MovingAverage
 
 This gem adds methods to the Array class to compute different types of moving
